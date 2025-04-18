@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//komentarz do usunięcia
+
 
 int main() {
     // Deklaracja zmiennych
@@ -21,4 +21,6 @@ int main() {
     cout << "Suma: " << suma << endl;
 
     return 0;
+// nowy komentarz
+
 }
